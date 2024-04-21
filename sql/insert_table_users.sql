@@ -1,0 +1,15 @@
+INSERT INTO users (id, name, age, gender) VALUES (1, 'Max', 16, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (3, 'Oleg', 20, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (4, 'Nazar', 30, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (5, 'Alina', 25, 'female');
+INSERT INTO users (id, name, age, gender) VALUES (6, 'Karina', 18, 'female');
+INSERT INTO users (id, name, age, gender) VALUES (7, 'Olha', 16, 'female');
+INSERT INTO users (id, name, age, gender) VALUES (8, 'Vitaliy', 34, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (9, 'Alex', 33, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (10, 'Lina', 14, 'female');
+INSERT INTO users (id, name, age, gender) VALUES (11, 'Natali', 36, 'female');
+INSERT INTO users (id, name, age, gender) VALUES (12, 'Anna', 30, 'female');
+INSERT INTO users (id, name, age, gender) VALUES (13, 'Bogdan', 50, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (14, 'Vasia', 14, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (15, 'Petia', 10, 'male');
+INSERT INTO users (id, name, age, gender) VALUES (16, 'Kokos', 4, 'male');
